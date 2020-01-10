@@ -1,0 +1,2 @@
+Disregard this repo.  Only some junk to test if Hound CI and
+riboseinc/oss-guides do work together.
